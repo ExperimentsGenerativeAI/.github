@@ -1,7 +1,9 @@
 # Experiments on program generation from problem reformulation in programming contexts with generative machines.
 
 
-Each repository represents an experiment. A repository is a Java project that can be cloned from Eclipse or Intellij.
+Each repository represents an experiment. 
+
+A repository is a Java project that can be cloned from Eclipse or Intellij.
 
 The project structure contains 3 main directories:
 
