@@ -3,7 +3,7 @@
 
 Each repository represents an experiment. 
 
-A repository is a Java project that can be cloned from Eclipse or Intellij.
+A repository is a Java project intended to be cloned from an IDE (for instance, Eclipse or Intellij).
 
 The project structure contains 3 main directories:
 
