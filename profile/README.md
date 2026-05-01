@@ -1,4 +1,4 @@
-## Hi there 👋
+## Organisation containing a set of experiments on program generation from problem reformulation in programming contexts with generative machines.
 
 <!--
 
