@@ -17,7 +17,7 @@ NOTE: If the user want to regenerate the whole experiment, s/he must supply the 
 
 The project directory (i.e. project root) contains a set of files called **program(num).txt**. Each of these files represents a test. For executing it, the file name (for instance, program1.txt) should be supplied as the input parameter to the the main method. Advice: -The easier form of executing a test is by defining a run configurations in the IDE-. 
 
-Finally, the project directory contains a file called **result.txt** reporting the experiment results.
+Finally, the project directory contains a file called **result.txt** which reports the experiment results.
 
 <!--
 
