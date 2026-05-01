@@ -11,9 +11,11 @@ The project structure contains 3 main directories:
 
 **output directory**: it contains the reasoning generated from the problem (reasoning.txt) and the reasoning generated from the problem reformulation (reasoning-reformulation.txt)
 
-**src directory**: it contains all files needed to execute the experiment: a Main class contains a main method for generating the program from the problem and a Main2 class contain a mein method for generating the program from the problem reformulation. 
+**src directory**: it contains all files needed to execute the experiment: a Main class contains a main method for generating the program from the problem and a Main2 class contains a mein method for generating the program from the problem reformulation. 
 
-The project directory (i.e. project root) contains a set of files called program(num).txt. Each of these files represents a test that should be supplied as the unique input parameter to the the main method. -The easier form of executing a test is by defining a run configurations in the IDE-.
+The project directory (i.e. project root) contains a set of files called program(num).txt. Each of these files represents a test that should be supplied as the input parameter to the the main method. -The easier form of executing a test is by defining a run configurations in the IDE-.
+
+The project directory contains a file called result.txt containing the experiment results.
 
 <!--
 
